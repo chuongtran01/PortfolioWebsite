@@ -1,10 +1,6 @@
 import React, { useState } from 'react';
+import { FiBook, FiHome, FiMessageSquare, FiUser } from 'react-icons/fi';
 import './Nav.css';
-import {FiHome}  from 'react-icons/fi'
-import {FiUser}  from 'react-icons/fi'
-import {FiBook}  from 'react-icons/fi'
-import {FiMessageSquare}  from 'react-icons/fi'
-import {RiServiceLine}  from 'react-icons/ri'
 
 
 function Nav() {

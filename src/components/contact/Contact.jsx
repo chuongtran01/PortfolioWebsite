@@ -28,14 +28,14 @@ function Contact() {
                         <Icon icon="bxl:gmail" width="35" height="35" className='contact__option-icon-mail'/>
                         <h4>Email</h4>
                         <h5>chuongtran2001@gmail.com</h5>
-                        <a href="mailto:chuongtran2001@gmail.com" target="_blank">Send a message</a>
+                        <a href="mailto:chuongtran2001@gmail.com" target="_blank" rel="noreferrer">Send a message</a>
                     </div>
 
                     <div className="contact__option">
                         <Icon icon="logos:linkedin-icon" width="30" height="30"/>
                         <h4>Linkedin</h4>
                         <h5>Chuong Tran</h5>
-                        <a href="https://www.linkedin.com/in/chuongtran2001/" target="_blank">Send a message</a>
+                        <a href="https://www.linkedin.com/in/chuongtran2001/" target="_blank" rel="noreferrer">Send a message</a>
                     </div>
 
                     <div className="contact__option">
@@ -43,7 +43,7 @@ function Contact() {
                         {/* <BsMessenger size="1.4em" className='contact__option-icon-mess'/> */}
                         <h4>Messenger</h4>
                         <h5>Chuong Tran</h5>
-                        <a href="https://www.facebook.com/uych.tran/" target="_blank">Send a message</a>
+                        <a href="https://www.facebook.com/uych.tran/" target="_blank" rel="noreferrer">Send a message</a>
                     </div>
                 </div>
                 {/*END OF CONTACT OPTIONS*/}

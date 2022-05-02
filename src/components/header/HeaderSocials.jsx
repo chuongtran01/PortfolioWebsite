@@ -1,7 +1,5 @@
-import React from 'react';
-import {BsLinkedin} from 'react-icons/bs'
-import {BsGithub} from 'react-icons/bs'
 import { Icon } from '@iconify/react';
+import React from 'react';
 
 function HeaderSocials() {
     return (

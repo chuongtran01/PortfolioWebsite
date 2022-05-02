@@ -9,22 +9,22 @@ const data = [
         id: 1,
         image: portfolio2,
         title: 'Shopping Site',
-        github:  "https://github.com/chuongtran01/simplemusicplayer",
-        demo: "https://dribble.com/Allen_pixels"
+        github:  "https://github.com/chuongtran01/Shopping-Site",
+        demo: "https://learn-reactjs-udemy-seven.vercel.app/products"
     },
     {
         id: 1,
         image: music,
         title: 'Simple Music Player',
         github:  "https://github.com/chuongtran01/simplemusicplayer",
-        demo: "https://chuongtran01.github.io/simplemusicplayer/"
+        demo: "https://chuongtran01.github.io/Simple-Music-Player/"
     },
     {
         id: 1,
         image: todoapp,
         title: 'To-do App',
         github:  "https://github.com/chuongtran01/todoapp",
-        demo: "https://chuongtran01.github.io/todoapp/"
+        demo: "https://chuongtran01.github.io/To-do-App/"
     },
 ]
 
@@ -43,8 +43,8 @@ function Portfolio() {
                                 </div>
                                 <h3>{title}</h3>
                                 <div className='portfolio__item-cta'>
-                                    <a href={github} className='btn2' target='_blank'>Github</a>
-                                    <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+                                    <a href={github} className='btn2' target='_blank' rel="noopener">Github</a>
+                                    <a href={demo} className='btn btn-primary' target='_blank' rel="noopener">Live Demo</a>
                                 </div>
                             </article>
                         )

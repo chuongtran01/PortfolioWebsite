@@ -1,13 +1,6 @@
+import { Icon } from '@iconify/react';
 import React from 'react';
 import './Experience.css';
-import {BsFillPatchCheckFill} from 'react-icons/bs'
-import {AiFillHtml5} from 'react-icons/ai'
-import {SiCplusplus} from 'react-icons/si'
-import {GrReactjs} from 'react-icons/gr'
-import {SiJavascript} from 'react-icons/si'
-import {SiCss3} from 'react-icons/si'
-import {SiPython} from 'react-icons/si'
-import { Icon } from '@iconify/react';
 
 
 
