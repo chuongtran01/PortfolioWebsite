@@ -44,7 +44,7 @@ A portfolio website that provides a convenient way for potential employers to vi
 
 ---
 
-## Author Info
+## Author Information
 
 - Linkedln - [Chuong Tran](https://www.linkedin.com/in/chuongtran2001/)
 
