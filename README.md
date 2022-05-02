@@ -15,7 +15,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-A portfolio website that provides a convenient way to view my information and experience.
+A portfolio website that provides a convenient way for potential employers to view my information and experience.
 
 #### Technologies
 
