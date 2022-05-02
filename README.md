@@ -33,7 +33,7 @@ A portfolio website that provides a convenient way for potential employers to vi
 ---
 
 ## References
-- [EGATOR]
+- EGATOR
 - [Iconify](https://iconify.design/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
