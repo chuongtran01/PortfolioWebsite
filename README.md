@@ -29,7 +29,7 @@ A portfolio website that provides a convenient way for potential employers to vi
 ---
 
 ## How To Use
-- Access this link: https://chuongtran01.github.io/todoapp/
+- Access this link: https://portfolio-website-theta-two.vercel.app/
 ---
 
 ## References
