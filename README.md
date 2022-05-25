@@ -15,7 +15,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-A portfolio website that provides a convenient way to view my information and experience.
+A portfolio website that provides a convenient way for potential employers to view my information and experience.
 
 #### Technologies
 
@@ -29,11 +29,11 @@ A portfolio website that provides a convenient way to view my information and ex
 ---
 
 ## How To Use
-- Access this link: https://chuongtran01.github.io/todoapp/
+- Access this link: https://portfolio-website-theta-two.vercel.app/
 ---
 
 ## References
-- [EGATOR]
+- EGATOR
 - [Iconify](https://iconify.design/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
@@ -44,7 +44,7 @@ A portfolio website that provides a convenient way to view my information and ex
 
 ---
 
-## Author Info
+## Author Information
 
 - Linkedln - [Chuong Tran](https://www.linkedin.com/in/chuongtran2001/)
 
