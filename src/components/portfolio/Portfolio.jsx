@@ -8,7 +8,7 @@ const data = [
     {
         id: 1,
         image: portfolio2,
-        title: 'Shopping Site',
+        title: 'E-Commerce Site',
         github:  "https://github.com/chuongtran01/Shopping-Site",
         demo: "https://learn-reactjs-udemy-seven.vercel.app/products"
     },
